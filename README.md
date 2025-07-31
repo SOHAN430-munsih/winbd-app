@@ -1,2 +1,1 @@
-# winbd-app
-Screenshort OCR + prediction AI
+This folder will hold Android WebView source to build APK.
